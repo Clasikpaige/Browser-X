@@ -15,8 +15,8 @@ _A Python tool to inspect **browser cookies and autofill data** for cybersecurit
 1. **Install Python 3.10+** (if you haven’t already).
 2. Clone this repo:
    ```
-   git clone https://github.com/yourusername/browser-analyzer.git
-   cd browser-analyzer
+   git clone https://github.clasikpaige/browser-X.git
+   cd Broswee-X
     ```
 ```
 pip install -r requirements.txt
